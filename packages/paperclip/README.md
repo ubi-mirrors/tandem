@@ -56,6 +56,7 @@ paperclip.bundleVanilla("component.pc", {
   - [ ] CSS selector -- needed for inferencing props like `:host([property])`
   
 - [ ] state / variant element
+- [ ] translate to Rust
 
 - [ ] Source maps*
 
